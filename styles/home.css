@@ -1,0 +1,29 @@
+ul {
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+li {
+    height: 50px;
+    margin-bottom: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
+}
+
+#pizza {
+    background-color: #bb5511;
+}
+
+#cookies {
+    background-color: #DBA75B;
+}
+
+#pesto {
+    background-color: #556b2f;
+}
